@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working PyForest<br>🌱 I’m currently learning c++<br>💬 Ask me about my projects<br>⚡ i started coding in a hospital bed
+🔭 I’m currently working on PyForest<br>🌱 I’m currently learning c++<br>💬 Ask me about my projects<br>⚡ i started coding in a hospital bed
 
 
 ## 🌐 Socials:
