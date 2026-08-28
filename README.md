@@ -1,5 +1,5 @@
 <img width="1200" height="400" alt="0a2be975e2a090d29d67e4da8e796f0b" src="https://github.com/user-attachments/assets/3f2ba72f-b40f-46a9-a9bc-f37cf1667eb7" />
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on PyForest<br>🌱 I’m currently learning c++<br>💬 Ask me about my projects<br>⚡ i started coding in a hospital bed
 
 
